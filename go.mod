@@ -1,4 +1,4 @@
-module github.com/troydot1x/pokedexcil
+module github.com/troydot1x/pokedexcli
 
 go 1.24.2
 
